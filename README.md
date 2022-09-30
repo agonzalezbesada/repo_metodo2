@@ -22,3 +22,5 @@ Help with using Audacity is available from the [Audacity Forum](https://forum.au
 Build instructions are available [here](BUILDING.md).
 
 More information for developers is available from the [Audacity Wiki](https://wiki.audacityteam.org/wiki/For_Developers).
+
+Hola, hice el método 2 con éxito.
